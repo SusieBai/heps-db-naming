@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="baiyu/front/success.jsp" x="400" y="300" zoom="true"/>
+        <Node id="baiyu/admin/top.jsp" x="400" y="450" zoom="true"/>
+        <Node id="baiyutest.jsp" x="400" y="600" zoom="true"/>
+        <Node id="upload.jsp" x="650" y="450" zoom="true"/>
+        <Node id="adddevice.jsp" x="150" y="600" zoom="true"/>
+        <Node id="baiyu/admin/add.jsp" x="900" y="300" zoom="true"/>
+        <Node id="baiyu/admin/left.jsp" x="650" y="150" zoom="true"/>
+        <Node id="baiyu/front/failure.jsp" x="150" y="300" zoom="true"/>
+        <Node id="signal.xhtml" x="1150" y="150" zoom="true"/>
+        <Node id="device.xhtml" x="400" y="150" zoom="true"/>
+        <Node id="baiyu/front/login.jsp" x="900" y="150" zoom="true"/>
+        <Node id="baiyu/admin/right.jsp" x="650" y="300" zoom="true"/>
+        <Node id="baiyu/admin/backstage.jsp" x="150" y="450" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
